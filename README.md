@@ -1,145 +1,175 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Shaik%20Magbul%20Basha&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-</p>
-# Hi 👋, I'm Shaik Magbul Basha
+<div align="center">
 
-<h3 align="center">Program Analyst | Software Developer | Machine Learning Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Shaik%20Magbul%20Basha&fontSize=50&fontColor=58A6FF&animation=fadeIn&fontAlignY=45&stroke=58A6FF&strokeWidth=1" />
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MagbulBasha2&label=Profile%20views&color=0e75b6&style=flat" alt="MagbulBasha2" />
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
 
-🎓 B.Tech Computer Science Graduate
+### 👨‍💻 Hey there! I'm **Magbul** 👋
 
-💼 Recently selected as a **Program Analyst**
+🎓 **B.Tech CSE Graduate** — SASTRA University  
+💼 **Program Analyst** (Placed @ Cognizant)  
+🌍 Based in **India 🇮🇳**  
+🔭 Currently deep-diving into **Spring Boot + System Design**  
+🧠 Exploring **AI/ML** and building real-world products  
+⚡ Fun fact: I turn coffee ☕ and code 💻 into working software  
 
-💻 Passionate about Software Development, Problem Solving, and Machine Learning
+<br/>
 
-🌱 Currently learning:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&width=480&lines=Full-Stack+Java+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Problem+Solver+%7C+Builder+%7C+Learner;Code.+Learn.+Build.+Improve.+Repeat.)](https://git.io/typing-svg)
 
-* System Design
-* Spring Boot
-* Cloud Technologies
-* Advanced DSA
-
-💡 Interested in:
-
-* Java Development
-* Backend Development
-* Machine Learning
-* Artificial Intelligence
-
-⚡ Fun Fact:
-
-> I enjoy solving coding problems and building projects that solve real-world challenges.
-
----
-
-## 🛠️ Skills
-
-### Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql" />
-</p>
-
-### Web Technologies
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,django" />
-</p>
-
-### Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-### Core Computer Science
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Operating Systems
-* Computer Networks
-* Machine Learning
-
----
-
-## 🏆 Featured Projects
-
-### 📌 Extractive Text Summarization using Deep Learning
-
-* Implemented NLP-based text summarization.
-* Used LDA, FastText, BiLSTM, and Seq2Seq architecture.
-* Generated concise summaries from large articles.
-
-### 📌 Course Management System
-
-* Developed a complete web application for course management.
-* Implemented authentication and CRUD operations.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MagbulBasha2&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MagbulBasha2&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagbulBasha2&layout=compact&theme=tokyonight" />
-</p>
+<br clear="right"/>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/magbul-basha123/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/magbul-basha123/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Shaik%20Magbul%20Basha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:magbulbasha915455@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-magbulbasha915455-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://github.com/MagbulBasha2">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+&nbsp;
+<a href="https://github.com/MagbulBasha2" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-MagbulBasha2-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=MagbulBasha2&label=Profile+Views&color=58A6FF&style=for-the-badge" />
 </p>
+
+---
+
+## 🧑‍💻 About Me
+
+```java
+public class MagbulBasha extends Developer {
+
+    final String name       = "Shaik Magbul Basha";
+    final String role       = "Program Analyst @ Cognizant";
+    final String university = "SASTRA University";
+
+    String[] currentlyLearning = {
+        "System Design", "Spring Boot",
+        "Cloud Technologies", "Advanced DSA"
+    };
+
+    String[] interests = {
+        "Java Backend Development",
+        "Full-Stack Engineering",
+        "Machine Learning & AI",
+        "Building Real-World Products"
+    };
+
+    String motto() {
+        return "Code. Learn. Build. Improve. Repeat. 🔁";
+    }
+}
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql&theme=dark" />
+
+<br/>
+
+**Web & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,spring,django&theme=dark" />
+
+<br/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>📚 Core CS Subjects</b></summary>
+<br/>
+
+| 🔢 Subject | 📌 Subject | 🔗 Subject |
+|---|---|---|
+| Data Structures & Algorithms | Object-Oriented Programming | Database Management Systems |
+| Operating Systems | Computer Networks | Machine Learning |
+
+</details>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+| 🧠 Extractive Text Summarization | 📚 Course Management System |
+|---|---|
+| NLP-based deep learning pipeline for summarizing large articles | Full-stack web app with authentication & CRUD operations |
+| `LDA` `FastText` `BiLSTM` `Seq2Seq` | `HTML/CSS/JS` `Django` `MySQL` |
+| Generates concise, readable summaries automatically | Streamlined course & user management |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MagbulBasha2&show_icons=true&theme=tokyonight&border_radius=10&include_all_commits=true&count_private=true" height="175"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagbulBasha2&layout=compact&theme=tokyonight&border_radius=10" height="175"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MagbulBasha2&theme=tokyonight&border_radius=10" height="175"/>
+
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MagbulBasha2&theme=tokyo-night" />
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MagbulBasha2&theme=tokyo-night&hide_border=true&area=true&radius=8" />
+</div>
 
 ---
 
-## 💻 Coding Profiles
+## 🌱 Currently Growing In
 
-* GitHub: https://github.com/MagbulBasha2
-* LinkedIn: https://www.linkedin.com/in/magbul-basha123/
+<div align="center">
+
+| 🔧 Area | 📌 Focus |
+|---|---|
+| 🏗️ System Design | Scalable, distributed systems |
+| 🍃 Spring Boot | Microservices & REST APIs |
+| ☁️ Cloud (AWS) | Deployment & infrastructure |
+| 🧩 Advanced DSA | Competitive problem solving |
+
+</div>
 
 ---
 
-## 🔥 Motto
+<div align="center">
 
-> "Code. Learn. Build. Improve. Repeat."
+### 🔥 *"The best engineers aren't those who know everything — they're the ones who never stop learning."*
 
----
+<br/>
 
-### Thanks for visiting my profile! 😊
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+
+</div>
